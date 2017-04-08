@@ -1,0 +1,45 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+html body h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+html body a {
+  text-decoration: none;
+}
+html body .input {
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+html body .input-result {
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  background: #ccc;
+  border-radius: 4px;
+  min-width: 196px;
+  margin-left: 10px;
+}
+html body .icon {
+  font-size: 22px;
+  cursor: pointer;
+  vertical-align: top;
+  margin: 5px;
+}
+html body .icon-plus {
+  color: blue;
+}
+html body .icon-minus {
+  color: red;
+}
